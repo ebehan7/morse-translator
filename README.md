@@ -16,10 +16,10 @@
 
 
 ## Technologies Used
-Python (Latest stable version)
-Playsound 1.3.0 (library)
-mutagen 1.47.0 (library)
-wheel and setuptools (library)
+- Python (Latest stable version)
+- Playsound 1.3.0 (library)
+- mutagen 1.47.0 (library)
+- wheel and setuptools (library)
 
 
 ## Setup
@@ -69,12 +69,12 @@ To do:
 
 
 ## Acknowledgements
-Information sources that assisted in the writing of this code:
-TunePad Documentation. (2024). Learn TunePad. https://learn.tunepad.com/docs/
+- Information sources that assisted in the writing of this code:
+- TunePad Documentation. (2024). Learn TunePad. https://learn.tunepad.com/docs/
 
 
 ‌- This project was inspired by:
-My own love for music
-My enthusiastic tutor, Andrew
-My experience of learning to use Tunepad during tutorials
-My friend, Paul, who taught me much of the code used in this project. I learnt a lot from him.
+- My own love for music
+- My enthusiastic tutor, Andrew
+- My experience of learning to use Tunepad during tutorials
+- My friend, Paul, who taught me much of the code used in this project. I learnt a lot from him.
